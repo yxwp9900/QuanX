@@ -9,7 +9,7 @@
 [rewrite_local]
 
 # ～ 堆糖解鎖會員權限
-^https?:\/\/api\.duitang\.com\/napi\/vienna\/graphic\/template url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/duitangpro.js
+^https?:\/\/api\.duitang\.com\/napi\/vienna\/graphic\/template url script-response-body https://raw.githubusercontent.com/yxwp9900/QuanX/master/Scripts/duitangpro.js
 
 [mitm]
 
