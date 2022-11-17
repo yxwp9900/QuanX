@@ -1,5 +1,5 @@
 /*
-^https?:\/\/api\.tipsoon\.com\/api\/v1\/user\/info url script-response-body https://raw.githubusercontent.com/yxwp9900/master/QuantX/Rewrite/jianxun.js
+^https?:\/\/api\.tipsoon\.com\/api\/v1\/user\/info url script-response-body https://raw.githubusercontent.com/yxwp9900/QuanX/master/Scripts/jianxun.js
 
 hostname=api.tipsoon.com
 */
